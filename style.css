@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h3 {
+    background-color: rgb(209, 209, 209);
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul, ol {
+    font-size: 14px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+a {
+    text-decoration: none;
+}
